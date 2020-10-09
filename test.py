@@ -1,9 +1,17 @@
-strA = "hello word"
-strb = strA[1]
-strC = "l"
-iss = strC  in strA6
-a = input()
+
+a = input('Nhap a')
+print(type(a))
+b = 69 + int(a)
+print(b)
+if 0 :
+    print('nguyen thanh trong')
+    a = 9
+    if 1:
+        print('trong')
 print(a)
-print(iss)
-print(type(strb))
-print(strb)
+i = 1
+while i > 0:
+    print(i)
+    i += 1
+
+pygame
